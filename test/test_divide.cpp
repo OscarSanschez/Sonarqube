@@ -3,7 +3,7 @@
 
 TEST(DivTest, HandlesPositiveInput)
 {
-int result = divide(9, 3);
+int result = divide(12, 3);
 
 EXPECT_EQ(result, 3);
 }
